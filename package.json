@@ -1,0 +1,12 @@
+{
+  "name": "nickapi",
+  "version": "1.0.0",
+  "description": "api simples para gerar nicks bonitos ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "void",
+  "license": "MIT"
+}
